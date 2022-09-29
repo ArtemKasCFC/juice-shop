@@ -1,0 +1,22 @@
+{
+  "name": "juice-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemKasCFC/juice-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemKasCFC/juice-shop/issues"
+  },
+  "homepage": "https://github.com/ArtemKasCFC/juice-shop#readme",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
